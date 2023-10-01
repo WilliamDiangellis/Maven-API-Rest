@@ -59,31 +59,31 @@ public class Medico {
         this.ativo = false;
     }
 
-//    public Long getId() {
-//        return id;
-//    }
-//
-//    public String getNome() {
-//        return nome;
-//    }
-//
-//    public  String getEmail () {
-//        return email;
-//    }
-//
-//    public  String getCrm() {
-//        return crm;
-//    }
-//
-//    public  String getTelefone() {
-//        return email;
-//    }
-//
-//    public  Especialidade getEspecialidade() {
-//        return especialidade;
-//    }
-//
-//    public Endereco getEndereco() {
-//        return endereco;
-//    }
+    public Long getId() {
+        return id;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public  String getEmail () {
+        return email;
+    }
+
+    public  String getCrm() {
+        return crm;
+    }
+
+    public  String getTelefone() {
+        return email;
+    }
+
+    public  Especialidade getEspecialidade() {
+        return especialidade;
+    }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
 }
